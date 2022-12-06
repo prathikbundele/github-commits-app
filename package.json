@@ -2,7 +2,7 @@
   "name": "github-commits-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://prathikbundele.github.io/github-commits-app",
+  "homepage": "https://prathikbundele.github.io/github-commits-app",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
